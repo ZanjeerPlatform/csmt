@@ -9,7 +9,7 @@ The package can be installed by adding `csmt` to your list of dependencies in `m
 ```elixir
 def deps do
   [
-    {:csmt, "~> 1.0.0"}
+    {:csmt, "~> 1.0"}
   ]
 end
 ```
