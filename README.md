@@ -5,6 +5,9 @@ CSMT package implements the [**Compact Sparse Merkle tree**](https://osf.io/8mcn
 EthResearch discussion
 https://ethresear.ch/t/compact-sparse-merkle-trees/3741
 
+CSMT
+https://eprint.iacr.org/2018/955.pdf
+
 ## Installation
 
 The package can be installed by adding `csmt` to your list of dependencies in `mix.exs`:
